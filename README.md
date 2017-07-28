@@ -15,13 +15,14 @@ The code is located in a Jupyter Notebook. You can install Jupyter Notebook by i
 
 ## Installing
 
-1. Clone this repository
+Clone this repository
 
 ```
 git clone https://github.com/Heych88/udacity-dlnd-face_generation.git
 ```
+## Run the Code
 
-2. Navigate to the cloned directories location and start jupyter notebook with `dlnd_face_generation.ipynb`
+Navigate to the cloned directories location and start jupyter notebook with `dlnd_face_generation.ipynb`
 
 ```
 jupyter notebook dlnd_face_generation.ipynb
